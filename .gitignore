@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+Logs/OrangeHRM.log
+Screenshots/*.png
+Html_Reports/*.html
+Allure_Reports/*
+!Allure_Reports/New Text Document.txt
+Html_Reports/assets/
+*.pdf
